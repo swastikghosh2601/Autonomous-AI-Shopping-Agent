@@ -93,6 +93,7 @@ MongoDB (user data, logs)
 FAISS / Chroma (vector database)
 
 # 📂 Project Structure
+
 autonomous-shopping-agent/
 ├── data/
 │   └── products.csv
@@ -216,12 +217,12 @@ Software Engineering
 AI Product Design
 
 
-#📜 License
+# 📜 License
 
 This project is developed for academic and learning purposes only.
 
 
-#👨‍💻 Author
+# 👨‍💻 Author
 
 Swastik Ghosh
 BTECH in Computer Science and Business Systems
