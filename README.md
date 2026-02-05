@@ -92,26 +92,6 @@ MongoDB (user data, logs)
 
 FAISS / Chroma (vector database)
 
-# 📂 Project Structure
-
-autonomous-shopping-agent/
-├── data/
-│   └── products.csv
-├── embeddings/
-│   ├── product_vectors.npy
-│   └── product_index.faiss
-├── app/
-│   ├── main.py
-│   ├── rag.py
-│   ├── embed.py
-│   ├── recommender.py
-│   └── models.py
-├── notebooks/
-│   └── experiments.ipynb
-├── requirements.txt
-├── README.md
-└── report/
-    └── final_project_report.pdf
 
 # 🚀 Implementation Phases
 Phase 1: Product Catalog + RAG
@@ -225,5 +205,7 @@ This project is developed for academic and learning purposes only.
 # 👨‍💻 Author
 
 Swastik Ghosh
+
 BTECH in Computer Science and Business Systems
+
 AI / Machine Learning Enthusiast
