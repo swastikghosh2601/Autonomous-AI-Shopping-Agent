@@ -1,8 +1,9 @@
-#Autonomous E-Commerce Personal Shopping Agent
+# Autonomous E-Commerce Personal Shopping Agent
 
 An AI-powered personal shopping assistant that understands user preferences, retrieves relevant products using semantic search, and delivers personalized recommendations through a conversational interface.
 
-📌 Project Overview
+
+# 📌 Project Overview
 
 Modern e-commerce platforms overwhelm users with thousands of product choices. Traditional recommendation systems rely heavily on collaborative filtering and fail to capture user intent, preferences, and context effectively.
 
@@ -20,7 +21,8 @@ Conversational AI
 
 The system behaves like a human personal shopper — understanding what the user wants, browsing products intelligently, and recommending the most suitable options.
 
-🎯 Objectives
+
+# 🎯 Objectives
 
 Build a semantic product search system using vector embeddings
 
@@ -34,7 +36,8 @@ Provide a conversational shopping experience
 
 Simulate price negotiation and offers
 
-🧠 Key Features
+
+# 🧠 Key Features
 
 🔍 Semantic product search using vector databases
 
@@ -48,7 +51,8 @@ Simulate price negotiation and offers
 
 💸 Simulated price negotiation logic
 
-🏗️ System Architecture
+
+# 🏗️ System Architecture
 User Interface (Chat UI)
         ↓
 Conversational AI (LLM)
@@ -59,7 +63,7 @@ Recommendation Engine (ML + RL)
         ↓
 User Preference Store (MongoDB)
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 Frontend
 
 React / Next.js
@@ -88,7 +92,7 @@ MongoDB (user data, logs)
 
 FAISS / Chroma (vector database)
 
-📂 Project Structure
+# 📂 Project Structure
 autonomous-shopping-agent/
 ├── data/
 │   └── products.csv
@@ -108,7 +112,7 @@ autonomous-shopping-agent/
 └── report/
     └── final_project_report.pdf
 
-🚀 Implementation Phases
+# 🚀 Implementation Phases
 Phase 1: Product Catalog + RAG
 
 Dataset collection and cleaning
@@ -153,7 +157,8 @@ Rule-based discount logic
 
 Loyalty and cart-based offers
 
-📊 Evaluation Metrics
+
+# 📊 Evaluation Metrics
 
 Precision@K
 
@@ -165,12 +170,14 @@ Conversion rate (simulated)
 
 Recommendation diversity
 
-🧪 Example Query
+
+# 🧪 Example Query
 User: Suggest budget sneakers under ₹3000
 Agent: Based on your preference for lightweight footwear and budget constraints,
         here are the top recommendations...
 
-📈 Results
+
+# 📈 Results
 
 Accurate semantic retrieval of products
 
@@ -180,7 +187,8 @@ Human-like conversational shopping flow
 
 Demonstrates full AI product lifecycle
 
-⚠️ Challenges & Considerations
+
+# ⚠️ Challenges & Considerations
 
 Cold-start problem for new users
 
@@ -190,19 +198,8 @@ Privacy and ethical handling of user data
 
 Computational constraints for large datasets
 
-🔮 Future Enhancements
 
-Real-time pricing and inventory integration
-
-Full deep reinforcement learning models
-
-Voice-based shopping assistant
-
-Real-world payment gateway integration
-
-Federated learning for privacy preservation
-
-🎓 Academic Relevance
+# 🎓 Academic Relevance
 
 This project demonstrates applied knowledge of:
 
@@ -218,20 +215,14 @@ Software Engineering
 
 AI Product Design
 
-It is suitable for:
 
-Final Year Engineering Project
-
-Research-based evaluation
-
-Industry-focused portfolios
-
-📜 License
+#📜 License
 
 This project is developed for academic and learning purposes only.
 
-👨‍💻 Author
+
+#👨‍💻 Author
 
 Swastik Ghosh
-Final Year Engineering Student
+BTECH in Computer Science and Business Systems
 AI / Machine Learning Enthusiast
